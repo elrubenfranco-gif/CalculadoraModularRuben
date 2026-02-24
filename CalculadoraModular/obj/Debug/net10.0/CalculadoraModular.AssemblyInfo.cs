@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraModular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44a991ce1566cbc9a340a6b618fadcb5f7c66e97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7025772514fba4a1612d8697e86989ae06667f34")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraModular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraModular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
