@@ -1,0 +1,15 @@
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.AssemblyInfoInputs.cache
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.AssemblyInfo.cs
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.csproj.CoreCompileInputs.cache
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.sourcelink.json
+/workspaces/CalculadoraModularRuben/CalculadoraModular/bin/Debug/net10.0/CalculadoraModular
+/workspaces/CalculadoraModularRuben/CalculadoraModular/bin/Debug/net10.0/CalculadoraModular.deps.json
+/workspaces/CalculadoraModularRuben/CalculadoraModular/bin/Debug/net10.0/CalculadoraModular.runtimeconfig.json
+/workspaces/CalculadoraModularRuben/CalculadoraModular/bin/Debug/net10.0/CalculadoraModular.dll
+/workspaces/CalculadoraModularRuben/CalculadoraModular/bin/Debug/net10.0/CalculadoraModular.pdb
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.dll
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/refint/CalculadoraModular.dll
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.pdb
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/CalculadoraModular.genruntimeconfig.cache
+/workspaces/CalculadoraModularRuben/CalculadoraModular/obj/Debug/net10.0/ref/CalculadoraModular.dll
